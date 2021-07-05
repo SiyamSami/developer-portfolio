@@ -1,0 +1,78 @@
+body{
+    background-image: linear-gradient(Navy,MidnightBlue,Indigo,DarkMagenta,DarkViolet,DarkOrchid,RebeccaPurple);
+    color: whitesmoke;
+    margin: 0;
+}
+
+h1{
+    color: MintCream;
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 50px;
+    box
+}
+
+.yellow{
+    color: yellow;
+
+}
+
+.aqua{
+    color:aqua;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 7%;
+    box-shadow: 0px 0px 500px black;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 10%;
+}
+
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(DarkRed,Maroon,red)
+}
+
+.background{
+
+    background-image: url(image/leahgotti.png);
+    background-repeat: no-repeat;
+    
+}
+
+
+p{
+    background-image: linear-gradient(orange,tomato,red);
+    margin-right: 150px;
+    border-radius: 5px;
+}
+
+#border1{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow,red,tomato,maroon);
+    border-image-slice: 1;
+}
+
+#border2{
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow,red,tomato,maroon);
+    border-image-slice: 1;    
+}
+
+footer{
+
+    text-align: center;
+}
+
